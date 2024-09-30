@@ -5,6 +5,8 @@ Este repositorio contiene mi participación en la competencia Playground Series 
 
 La competencia está orientada a incentivar la experimentación y la mejora en la implementación de técnicas de Machine Learning y Deep Learning. A continuación, se detallan los pasos clave, enfoques y técnicas que he utilizado para abordar este desafío.
 
+https://www.kaggle.com/competitions/playground-series-s4e9/leaderboard#
+
 # Pasos Principales
 
 1 - Preprocesamiento de Datos
