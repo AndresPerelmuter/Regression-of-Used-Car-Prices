@@ -31,6 +31,8 @@ Se implementaron diversas técnicas para limpiar y preparar los datos para el mo
 - CatBoost: Especialmente diseñado para trabajar con características categóricas, proporcionando resultados robustos.
 - XGBoost: Conocido por su rendimiento en competiciones de Machine Learning, este modelo es altamente eficiente y eficaz.
 
+Además, se realizó stacking con estos modelos para combinar sus predicciones y mejorar la precisión general del modelo. El stacking permite que los modelos individuales se complementen entre sí, logrando un mayor rendimiento.
+
 4 - Optimización de Hiperparámetros: Se utilizó **Optuna**, una biblioteca de optimización de hiperparámetros, para mejorar el rendimiento del modelo. Optuna permite la búsqueda automática de los mejores hiperparámetros a través de técnicas como el optimizador de TPE (Tree-structured Parzen Estimator). Esto se traduce en una búsqueda más eficiente y efectiva en comparación con métodos de búsqueda manual o en cuadrícula, ayudando a encontrar configuraciones óptimas que maximizan el rendimiento del modelo.
 
 5 - Evaluación del Modelo: Los modelos fueron evaluados utilizando **RMSE (Root Mean Squared Error)**, que proporciona una medida de la diferencia promedio entre las predicciones del modelo y los valores reales. Esta métrica es especialmente útil en problemas de regresión, ya que penaliza más los errores grandes, ofreciendo una visión clara del rendimiento del modelo.
