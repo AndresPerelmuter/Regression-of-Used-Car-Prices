@@ -23,7 +23,6 @@ Se implementaron diversas técnicas para limpiar y preparar los datos para el mo
 
 - Visualización de distribuciones.
 - Evaluación de correlaciones.
-- Análisis de valores faltantes (si aplicable).
 
 3 - Modelado: Se ha probado una variedad de modelos de Machine Learning, centrándose principalmente en:
 
